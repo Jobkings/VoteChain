@@ -1,2 +1,1 @@
-# VoteChain
-VoteChain is a blockchain-based voting platform that ensures secure, transparent, and tamper-proof elections for communities and organizations
+VoteChain is a decentralized voting platform that records votes immutably on the Stellar blockchain
